@@ -20,7 +20,7 @@ To run the Algorithm Visualizer on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/Hap1dev/algorithm-analyzer.git
+   git clone https://github.com/Hap1dev/algorithm-analyzer.git
 
 2. **Navigate to the project directory**:
    ```bash
