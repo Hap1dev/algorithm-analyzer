@@ -34,7 +34,6 @@ To run the Algorithm Visualizer on your local machine, follow these steps:
    ```bash
    python3 algoanalyzer.py
 
-
 ## Usage
 
 When you run the program, you will be prompted in the terminal to enter:
