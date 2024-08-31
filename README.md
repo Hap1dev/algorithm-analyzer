@@ -33,7 +33,7 @@ To run the Algorithm Visualizer on your local machine, follow these steps:
 
 4. **Run the program**:
    ```bash
-   python main.py
+   python3 algoanalyzer.py
 
 
 
