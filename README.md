@@ -30,11 +30,9 @@ To run the Algorithm Visualizer on your local machine, follow these steps:
    ```bash
    pip install pygame
 
-
 4. **Run the program**:
    ```bash
    python3 algoanalyzer.py
-
 
 
 ## Usage
